@@ -1,0 +1,94 @@
+{
+    "lottery": {
+        "1": {
+            "Comment": "这里的系数是下次5倍，个数是1个。", 
+            "Name": "五倍宝箱", 
+            "Weight": 500, 
+            "Number": 0, 
+            "Param": 5, 
+            "Position": 1, 
+            "TipsId": 7, 
+            "Id": 1
+        }, 
+        "2": {
+            "Comment": "这里同商城做法，取当前等级礼包的倍率。", 
+            "Name": "金币", 
+            "Weight": 2000, 
+            "Number": 0, 
+            "Param": 2, 
+            "Position": 2, 
+            "TipsId": 1, 
+            "Id": 2
+        }, 
+        "3": {
+            "Comment": "这里是50原力", 
+            "Name": "原力", 
+            "Weight": 500, 
+            "Number": 50, 
+            "Param": 0, 
+            "Position": 3, 
+            "TipsId": 3, 
+            "Id": 3
+        }, 
+        "4": {
+            "Comment": "这里同商城做法，取当前等级礼包的倍率。", 
+            "Name": "星星", 
+            "Weight": 2000, 
+            "Number": 0, 
+            "Param": 3, 
+            "Position": 4, 
+            "TipsId": 2, 
+            "Id": 4
+        }, 
+        "5": {
+            "Comment": "这里是10氪金", 
+            "Name": "氪金", 
+            "Weight": 100, 
+            "Number": 10, 
+            "Param": 0, 
+            "Position": 5, 
+            "TipsId": 5, 
+            "Id": 5
+        }, 
+        "6": {
+            "Comment": "这里同商城做法，取当前等级礼包的倍率。", 
+            "Name": "金币", 
+            "Weight": 1500, 
+            "Number": 0, 
+            "Param": 3, 
+            "Position": 6, 
+            "TipsId": 1, 
+            "Id": 6
+        }, 
+        "7": {
+            "Comment": "这里是20GC", 
+            "Name": "GC", 
+            "Weight": 200, 
+            "Number": 20, 
+            "Param": 0, 
+            "Position": 7, 
+            "TipsId": 4, 
+            "Id": 7
+        }, 
+        "8": {
+            "Comment": "这里同商城做法，取当前等级礼包的倍率。", 
+            "Name": "星星", 
+            "Weight": 1500, 
+            "Number": 0, 
+            "Param": 2, 
+            "Position": 8, 
+            "TipsId": 2, 
+            "Id": 8
+        }, 
+        "9": {
+            "Comment": "这里是20氪金。", 
+            "Name": "氪金", 
+            "Weight": 50, 
+            "Number": 20, 
+            "Param": 0, 
+            "Position": 9, 
+            "TipsId": 5, 
+            "Id": 9
+        }
+    }
+}
